@@ -1,0 +1,15 @@
+.field {
+  display: flex;
+
+  > div {
+    margin-left: 10px;
+
+    > input {
+      border-radius: 30px;
+      background-color: transparent;
+      border: none;
+      outline: none;
+      color: #424242;
+    }
+  }
+}
